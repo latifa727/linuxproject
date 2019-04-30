@@ -238,3 +238,7 @@ open(r'/var/www/CatalogApp/CatalogApp/client_secret_ last.json', 'r').read())['w
 -   add you hostname ([http://ec2-13-127-125-191.ap-south-1.compute.amazonaws.com](http://ec2-13-127-125-191.ap-south-1.compute.amazonaws.com) ) and public IP address ([http://13.127.125.191](http://13.127.125.191)) to Authorised JavaScript origins.
 -   add hostname ([http://ec2-13-127-125-191.ap-south-1.compute.amazonaws.com/oauth2callback](http://ec2-13-127-125-191.ap-south-1.compute.amazonaws.com/oauth2callback)) to Authorised redirect URIs.
 -   update the client_secret.json file too(adding hostname and public IP address).
+## Resourses
+1-   Github repos
+2-   StackOverflow posts
+3- Digitalocean Tutorials
